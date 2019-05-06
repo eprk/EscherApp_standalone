@@ -1,0 +1,2 @@
+name,width,height,formula,notes
+asus large B100,30,27,@(x)198.4582*x.^1.7134,standard ; K=100; B=0; color normal
